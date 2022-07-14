@@ -1,5 +1,5 @@
 <h1>Hello!</h1>
-<img  src="https://media.giphy.com/media/4F8qgKk4hFgg45s221/giphy.gif" width="50%" height="auto" style="margin-left:50%; margin-right:50%"/>
+<img  src="https://media.giphy.com/media/4F8qgKk4hFgg45s221/giphy.gif" style="margin-left:50%; margin-right:50%"/>
 <!--
 **ViktorVendolsky/ViktorVendolsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
