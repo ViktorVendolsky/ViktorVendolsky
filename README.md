@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://media0.giphy.com/media/4F8qgKk4hFgg45s221/giphy.gif?cid=790b7611b60ef112b606dfee17ef841d54610b8a490a8a98&rid=giphy.gif&ct=g"/>
 <!--
 **ViktorVendolsky/ViktorVendolsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
