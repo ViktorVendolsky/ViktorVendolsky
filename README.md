@@ -1,5 +1,5 @@
 
-<img  src="https://imgur.com/5YtHHQt" width="100%" height="auto"/>
+<img  src="https://imgur.com/a/QN9zsEC" width="100%" height="auto"/>
 <!--
 **ViktorVendolsky/ViktorVendolsky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
