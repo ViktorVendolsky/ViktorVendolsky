@@ -5,7 +5,7 @@
   <h2>
     Who am I?
    </h2>
-  <p>I'm just a student and a programming amateur and currently learning new technologies!</p>
+  <p>I'm just a student and a programming amateur who is currently learning new technologies!</p>
   
   <br>
   <br>
