@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello!</b></h1>
 <p align="center"><b>I'm</b></p>
-<p font-size="25px">Viktor Vendolský</p>
+<h1 align="center">Viktor Vendolský</h1>
 <div>
   <h2>
     Who am I?
