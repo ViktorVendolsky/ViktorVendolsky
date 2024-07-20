@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hello!</b></h1>
 <p align="center"><b>I'm</b></p>
-<img  src="https://cdn.discordapp.com/attachments/569934612638335017/997529440332554320/ezgif.com-gif-maker_12.gif" width="100%" height="auto" />
+<p font-size="25px">Viktor Vendolský</p>
 <div>
   <h2>
     Who am I?
